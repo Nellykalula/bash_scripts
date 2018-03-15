@@ -1,19 +1,19 @@
-###Nelly Kalula
+### Nelly Kalula
 
-###Prof Verrier
+### Prof Verrier
 
-###ETR 164
+### ETR 164
 
-###10 Mars 2018
+### 10 Mars 2018
 
-                                               # Setting up IRC server 
+# Setting up IRC server 
 
 ![Imgur](https://i.imgur.com/0UG45Yo.jpg)
 
-##Objective
+## Objective
 
 	The objective of this project was to set up a software called Internet Relay Chat (IRC).
-##Materials 
+## Materials 
 
 	At the beginning of the project I decided to use a laptop to set up my server.  I thought it was the easy
 way out but I did have  a lot of difficulties setting it up.  In fact, everybody who used a laptop thinking that
