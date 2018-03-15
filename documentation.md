@@ -8,7 +8,7 @@
 
                                                # Setting up IRC server 
 
-
+![Imgur](https://i.imgur.com/0UG45Yo.jpg)
 
 ##Objective
 
