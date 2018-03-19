@@ -24,7 +24,7 @@ I have been working with Ubuntu using  online tutorials, one of them found at   
 
 ## What I learned
 
-![Imgur](https://imgur.com/a/9ZhAy.jpg)
+![Imgur](https://imgur.com/a/7J5bu.jpg)
 
 	Throughout this process I have Learned how to: Set up Linux, follow tutorial better than I’ve ever had,
 download, install and setup a software using keyboard.  Most importantly, I have learned that even though the 
@@ -34,7 +34,7 @@ do it so next time you can get it to work.
 
 ## Conclusion
 
-![Imgur](https://imgur.com/a/9ZhAy.jpg)
+![Imgur](https://imgur.com/a/LIbjH.jpg)
 
 	After working on this project for about a month, I was not able to set up the server.  When writting this
 code I did not run into a problem until after downloading it like on the tutorial, then when it comes to finding it
