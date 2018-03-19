@@ -1,10 +1,15 @@
 
 #  Nelly Kalula
+
 #  Prof Verrier
+
 #   ETR 164
+
 #  18 March 2018
 
+
 ##  Project two raftdraft
+
 
        ###  After talking to my professor and finally finding out that we can do anything for our 
        final project.  well as long as it's appropriate for the class.  I was debating between 
