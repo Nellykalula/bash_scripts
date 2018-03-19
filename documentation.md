@@ -40,7 +40,7 @@ do it so next time you can get it to work.
 code I did not run into a problem until after downloading it like on the tutorial, then when it comes to finding it
 so I can install it.  That's when it became difficult. It will always tell me "command not found."  My suggestion is 
 if anybody want a successful running server, do not take the laptop route.  It is an easy option in this case but in 
-reality it is not, so use the raspberry pie instead 
+reality it is not, so use the raspberry pie instead. 
 
 
 
