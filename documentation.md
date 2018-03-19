@@ -24,7 +24,7 @@ I have been working with Ubuntu using  online tutorials, one of them found at   
 
 ## What I learned
 
-![Imgur](https://imgur.com/a/7J5bu.jpg)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0Brqj"><a href="//imgur.com/0Brqj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	Throughout this process I have Learned how to: Set up Linux, follow tutorial better than I’ve ever had,
 download, install and setup a software using keyboard.  Most importantly, I have learned that even though the 
