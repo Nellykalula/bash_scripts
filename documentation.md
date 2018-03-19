@@ -22,20 +22,23 @@ install linux.  Linux showed a lot progress that I was not even close to when I 
 I have been working with Ubuntu using  online tutorials, one of them found at   http://www.codeography.com/2012/09/23/howto-irc-server.html
 
 
-##What I learned
+## What I learned
 
 	Throughout this process I have Learned how to: Set up Linux, follow tutorial better than I’ve ever had,
 download, install and setup a software using keyboard.  Most importantly, I have learned that even though the 
 objective was to set up an IRC but what counts more is not just getting it up and running but learning how to 
 do it so next time you can get it to work. 
 
-##Conclusion
+![Imgur](https://imgur.com/a/9ZhAy)
+
+## Conclusion
 
 	After working on this project for about a month, I was not able to set up the server.  When writting this
 code I did not run into a problem until after downloading it like on the tutorial, then when it comes to finding it
 so I can install it.  That's when it became difficult. It will always tell me "command not found."  My suggestion is 
 if anybody want a successful running server, do not take the laptop route.  It is an easy option in this case but in 
 reality it is not, so use the raspberry pie instead 
+![Imgur](https://imgur.com/a/9ZhAy)
 
 
  
