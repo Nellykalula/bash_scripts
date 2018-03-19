@@ -29,7 +29,7 @@ download, install and setup a software using keyboard.  Most importantly, I have
 objective was to set up an IRC but what counts more is not just getting it up and running but learning how to 
 do it so next time you can get it to work. 
 
-![Imgur](https://imgur.com/a/9ZhAy.jpg)
+![Imgur](https://i.imgur.com/a/9ZhAy.jpg)
 
 ## Conclusion
 
@@ -38,7 +38,7 @@ code I did not run into a problem until after downloading it like on the tutoria
 so I can install it.  That's when it became difficult. It will always tell me "command not found."  My suggestion is 
 if anybody want a successful running server, do not take the laptop route.  It is an easy option in this case but in 
 reality it is not, so use the raspberry pie instead 
-![Imgur](https://imgur.com/a/9ZhAy.jpg)
+! [Imgur](https://imgur.com/a/9ZhAy.jpg)
 
 
  
