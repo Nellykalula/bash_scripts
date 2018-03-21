@@ -1,11 +1,8 @@
 
-#Nelly Kalula
-
-#Prof Verrier
-
-#ETR 164
-
-#18 March 2018
+# Nelly Kalula
+# Prof Verrier
+# ETR 164
+# 18 March 2018
 
 
 ## Project two raftdraft
