@@ -1,14 +1,14 @@
 
-### Nelly Kalula
+# Nelly Kalula
 
-### Prof Verrier
+# Prof Verrier
 
-### ETR 164
+# ETR 164
 
-### 18 March 2018
+# 18 March 2018
 
 
-##  Project two raftdraft
+## Project two raftdraft
 
    After talking to my professor and finally finding out that we can do anything for our  final project.
   Well as long as it's appropriate for the class.  I was debating between  making a game using python or
