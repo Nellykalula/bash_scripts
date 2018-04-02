@@ -3,7 +3,7 @@
 ### ETR  164
 ### 2 April 2018
 
-## Final Project: clothing website
+### Final Project: clothing website
 
  #### For my final project, I have decided to make a clothing website for my mother’s business sinceshe always
  #### talking about having a website and this also will be a perfect practice for me to see how far I am with 
@@ -15,7 +15,7 @@
  #### I want to use in my coding.  Third, look for the pictures where people are wearing my mom’s design and put them
  #### in a file that I will be able to get to easily.  Fourth, I will make the website hoping that it comes out good 
  #### and then last, test to see that everything is working the way it supposed to.  
- ![alt text]( https://imgur.com/4ohTYR9)
+ ![alt text]( https://imgur.com/4ohTYR9.png )
  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text] (https://imgur.com/EZ9hYMh)
 	
