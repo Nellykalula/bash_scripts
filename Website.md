@@ -16,8 +16,8 @@
  #### in a file that I will be able to get to easily.  Fourth, I will make the website hoping that it comes out good 
  #### and then last, test to see that everything is working the way it supposed to.  
  ![alt text](https://imgur.com/RaRpTLe.png)
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text]
+
+![alt text](https://imgur.com/anD3jrb.png)
 	
 #### The risk that I am afraid of is that I will not know how to make everything work because this is a very advanced
 #### website that I have ever done so it a little intimidating but for a final project and I just want to prove to 
