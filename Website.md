@@ -15,9 +15,9 @@
  ### I want to use in my coding.  Third, look for the pictures where people are wearing my mom’s design and put them
  #### in a file that I will be able to get to easily.  Fourth, I will make the website hoping that it comes out good 
  #### and then last, test to see that everything is working the way it supposed to.  
- ![alt text] https://imgur.com/4ohTYR9
+ ![alt text]( https://imgur.com/4ohTYR9)
  
-![alt text] https://imgur.com/EZ9hYMh
+![alt text] (https://imgur.com/EZ9hYMh)
 	
 #### The risk that I am afraid of is that I will not know how to make everything work because this is a very advanced
 #### website that I have ever done so it a little intimidating but for a final project and I just want to prove to 
