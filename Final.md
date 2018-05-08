@@ -15,9 +15,9 @@
 #### Materials
 #### I really didn't need much for my project. Since I had to create the website from scratch, I used 
 #### NotePad ++ and took pictures from my sister's facebook page and some that I had in my phone.
-![alt text](https://imgur.com/anD3jrb.png)
 
 ![alt text](https://imgur.com/njooBgK.png)
+
 #### What I learned
 #### My web developpment was not as good as it is right now.  Through out this process, I had friends 
 #### helped me and showed me how to play around with HTML.  Doing this project, have improved my web 
@@ -29,6 +29,5 @@
 #### I turned it into a long term project.  My pages needs a lot of working, so for right now it  is 
 #### just sort of a prototype.  I plan to finish this project soon or later.
 
-![alt text](https://imgur.com/a/6csJjhK.PNG)
-
-![alt text](https://imgur.com/a/j1hCPcK.PNG)
+![alt text](https://imgur.com/hVRH3AD.png)
+![alt text](https://imgur.com/xcfeE3R.png)
