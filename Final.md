@@ -15,10 +15,9 @@
 #### Materials
 #### I really didn't need much for my project. Since I had to create the website from scratch, I used 
 #### NotePad ++ and took pictures from my sister's facebook page and some that I had in my phone.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://imgur.com/anD3jrb.png)
 
-![alt text]([img]https://i.imgur.com/njooBgK.png[/img])
-
+![alt text](https://imgur.com/njooBgK.png)
 #### What I learned
 #### My web developpment was not as good as it is right now.  Through out this process, I had friends 
 #### helped me and showed me how to play around with HTML.  Doing this project, have improved my web 
