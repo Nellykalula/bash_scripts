@@ -29,5 +29,5 @@
 #### I turned it into a long term project.  My pages needs a lot of working, so for right now it  is 
 #### just sort of a prototype.  I plan to finish this project soon or later.
 
-![alt text](https://imgur.com/hVRH3AD.png)
+![alt text](https://imgur.com/sUZCba1.png)
 ![alt text](https://imgur.com/xcfeE3R.png)
